@@ -165,13 +165,6 @@ Data-Structres-Library-CPP/
 ├── clsStack.h
 ├── clsStackArr.h
 ├── clsDblLinkedList.h
-├── DynamicArray.md
-├── MyString.md
-├── QueueArr.md
-├── QueueLine.md
-├── Stack.md
-├── StackArr.md
-├── DblLinkedList.md
 ├── README.md
 └── ...
 ```
