@@ -1,7 +1,7 @@
 # 📚 Data Structures Library for C++
 
 > 📖 **Detailed Documentation & Tutorials**  
-> For full explanations, code walkthroughs, and easy navigation between topics, please visit the **[Project Wiki](https://github.com/ali-talal-ibrahem/#/wiki)**.
+> For full explanations, code walkthroughs, and easy navigation between topics, please visit the **[Project Wiki](https://github.com/ali-talal-ibrahem/Data-Structures-Library-CPP/wiki)**.
 >
 
 <div align="center">
